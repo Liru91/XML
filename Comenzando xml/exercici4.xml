@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"nadpis="Využití XML při zápisu matematických vzorců">
+<cenik klicova_slova="XML MathML Amaya"popis="Článek pojednává o možnosti zápisu matematických vzorců a výrazů za pomoci jazyka XMl.
+Podrobně popisuje standart MathML a práci s editorem Amaya." >
+	<vyrobek id="m025"nazev="Máslo"vyrobce="České mlékárny a.s."cena="20"> 
+	</vyrobek>
+	<vyrobek id="m026"nazev="Podmáslí"vyrobce="Moravské mlékarny a.s."cena="25,50">
+	</vyrobek>
+	<autor titul="Bc"jmeno="Jaroslav"prijemni="Kubáček">
+	</autor>
+	<obsah odstavec="Jedním z cílů organizace W3C bylo navrhnout vhodný standart pro zapisování
+matematických vzorců, který bude založený na technologie XML. Výsledkem snažení je
+standart MathML neboli Mathematical Markup Language. ... ">		
+	</obsah>
+</cenik>
